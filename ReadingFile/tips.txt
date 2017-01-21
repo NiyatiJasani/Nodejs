@@ -1,0 +1,12 @@
+//        calculate: function (arr, operation) {
+//            if (arr.length == 0) {
+//                return NaN;
+//            } else if (arr.length == 1) {
+//                var val = arr.pop();
+//                if (typeof val == "number") {
+//                    return val;
+//       
+/*Sum of all salaries is 
+var fs = require('fs');
+var csv = ('employee.txt', 'utf8');
+console.log(readMe);*/
